@@ -9,6 +9,7 @@ Vitali, Java Developer<br>
 - Servlet API
 - Hibernate
 - Spring
-- JUnit, Maven
+- JUnit, Mockito
+- Maven, Gradle
 
 <br>
